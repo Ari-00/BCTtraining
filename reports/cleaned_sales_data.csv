@@ -1,0 +1,31 @@
+transaction_id,date,product_name,category,quantity,unit_price,customer_name,region,total_revenue,month,month_name,year,month_num
+T001,2024-01-05,Laptop,Electronics,2,999.99,John Smith,North,1999.98,2024-01,January,2024,1
+T002,2024-01-10,Mouse,Electronics,5,29.99,Jane Doe,South,149.95,2024-01,January,2024,1
+T003,2024-01-15,Keyboard,Electronics,3,79.99,John Smith,North,239.96999999999997,2024-01,January,2024,1
+T004,2024-01-20,Monitor,Electronics,1,299.99,Bob Johnson,East,299.99,2024-01,January,2024,1
+T005,2024-01-25,Desk Chair,Furniture,2,199.99,Alice Brown,West,399.98,2024-01,January,2024,1
+T006,2024-02-01,Laptop,Electronics,1,999.99,Charlie Davis,North,999.99,2024-02,February,2024,2
+T007,2024-02-05,Mouse,Electronics,10,29.99,Jane Doe,South,299.9,2024-02,February,2024,2
+T008,2024-02-10,Desk,Furniture,1,349.99,Bob Johnson,East,349.99,2024-02,February,2024,2
+T009,2024-02-15,Chair,Furniture,4,149.99,Alice Brown,West,599.96,2024-02,February,2024,2
+T010,2024-02-20,Keyboard,Electronics,2,79.99,David Wilson,North,159.98,2024-02,February,2024,2
+T011,2024-03-01,Laptop,Electronics,3,999.99,John Smith,North,2999.9700000000003,2024-03,March,2024,3
+T012,2024-03-05,Monitor,Electronics,2,299.99,Jane Doe,South,599.98,2024-03,March,2024,3
+T013,2024-03-10,Desk Chair,Furniture,3,199.99,Bob Johnson,East,599.97,2024-03,March,2024,3
+T014,2024-03-15,Mouse,Electronics,8,29.99,Alice Brown,West,239.92,2024-03,March,2024,3
+T015,2024-03-20,Keyboard,Electronics,4,79.99,Charlie Davis,North,319.96,2024-03,March,2024,3
+T016,2024-04-01,Laptop,Electronics,2,999.99,David Wilson,North,1999.98,2024-04,April,2024,4
+T017,2024-04-05,Desk,Furniture,1,349.99,Jane Doe,South,349.99,2024-04,April,2024,4
+T018,2024-04-10,Chair,Furniture,2,149.99,Bob Johnson,East,299.98,2024-04,April,2024,4
+T019,2024-04-15,Monitor,Electronics,1,299.99,Alice Brown,West,299.99,2024-04,April,2024,4
+T020,2024-04-20,Mouse,Electronics,6,29.99,John Smith,North,179.94,2024-04,April,2024,4
+T021,2024-05-01,Laptop,Electronics,1,999.99,Charlie Davis,North,999.99,2024-05,May,2024,5
+T022,2024-05-05,Keyboard,Electronics,5,79.99,David Wilson,North,399.95,2024-05,May,2024,5
+T023,2024-05-10,Desk Chair,Furniture,2,199.99,Jane Doe,South,399.98,2024-05,May,2024,5
+T024,2024-05-15,Chair,Furniture,3,149.99,Bob Johnson,East,449.97,2024-05,May,2024,5
+T025,2024-05-20,Monitor,Electronics,2,299.99,Alice Brown,West,599.98,2024-05,May,2024,5
+T026,2024-06-01,Laptop,Electronics,2,999.99,John Smith,North,1999.98,2024-06,June,2024,6
+T027,2024-06-05,Mouse,Electronics,12,29.99,Jane Doe,South,359.88,2024-06,June,2024,6
+T028,2024-06-10,Desk,Furniture,1,349.99,Bob Johnson,East,349.99,2024-06,June,2024,6
+T029,2024-06-15,Keyboard,Electronics,3,79.99,Alice Brown,West,239.96999999999997,2024-06,June,2024,6
+T030,2024-06-20,Monitor,Electronics,1,299.99,Charlie Davis,North,299.99,2024-06,June,2024,6
